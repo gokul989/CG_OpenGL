@@ -1,0 +1,19 @@
+keystroke guide
+
+w->translate y up
+s->translate y down
+
+a->translate x left
+d->translate x right
+
+k->translate z forward
+m->translate z backward
+
+r->roll right
+l->roll left
+
+p->pitch forward
+o->pitch backward
+
+g->yaw CW
+h-> yaw CCW

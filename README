@@ -1,0 +1,14 @@
+1.Bressenhams:
+
+This program can draw a line of any slope using Bressenhams lie algorithm.
+
+
+2.Classroom scene
+
+a classroom environment with the help of simple cubes, cuboids and quads.
+
+
+3.Bezier curve and surface modelling
+
+make a Bezier curve and using that Bezier curve, we would like to create a surface of revolution.
+Sampled the curve made at uniform interval of size 0.1. Made a surface of revolution using these sampled points on the curve. Saved it in a file as OFF format.
